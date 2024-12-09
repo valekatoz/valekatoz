@@ -51,8 +51,8 @@ text, tspan {white-space: pre;}
 <tspan x="475" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, Java, Python, JavaScript</tspan>
 <tspan x="475" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Markdown</tspan>
 <tspan x="475" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Italian, English, (Learning) France</tspan>
-<tspan x="475" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Coding</tspan>: <tspan class="valueColor">Frontend, Backend</tspan>
-<tspan x="475" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hacking</tspan>: <tspan class="valueColor">Reversing, Modding</tspan>
+<tspan x="475" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Coding</tspan>: <tspan class="valueColor">Web and Application Development</tspan>
+<tspan x="475" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hacking</tspan>: <tspan class="valueColor">Game Reversing and Modding</tspan>
 <tspan x="475" y="330" class="keyColor">Contact</tspan>:
 <tspan x="475" y="350">——————</tspan>
 <tspan x="475" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">contact@valekatoz.com</tspan>
