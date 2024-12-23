@@ -51,7 +51,7 @@ text, tspan {white-space: pre;}
 <tspan x="515" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA, VSCode</tspan>
 <tspan x="515" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C, Java, Python, JavaScript</tspan>
 <tspan x="515" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, Markdown</tspan>
-<tspan x="515" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Italian, English, (Learning) French</tspan>
+<tspan x="515" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Italian and English</tspan>
 <tspan x="515" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Coding</tspan>: <tspan class="valueColor">Web and Application Development</tspan>
 <tspan x="515" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hacking</tspan>: <tspan class="valueColor">Game Reversing and Modding</tspan>
 <tspan x="515" y="330" class="keyColor">Contact</tspan>:
