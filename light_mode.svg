@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <text x="515" y="30" fill="#24292f">
 <tspan x="515" y="30">valekatoz</tspan>
 <tspan x="515" y="50">——————</tspan>
-<tspan x="515" y="70" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years, 6 months, 14 days</tspan>
+<tspan x="515" y="70" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years, 6 months, 15 days</tspan>
 <tspan x="515" y="90" class="keyColor">Host</tspan>: <tspan class="valueColor">High School</tspan>
 <tspan x="515" y="110" class="keyColor">Kernel</tspan>: <tspan class="valueColor">IT and Telecommunications</tspan>
 <tspan x="515" y="130" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows, iOS</tspan>
@@ -62,10 +62,10 @@ text, tspan {white-space: pre;}
 <tspan x="515" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="515" y="470">——————</tspan>
 <tspan x="515" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">10</tspan>
-<tspan x="515" y="510" class="keyColor">Commmits</tspan>: <tspan class="valueColor">399    </tspan>
+<tspan x="515" y="510" class="keyColor">Commmits</tspan>: <tspan class="valueColor">409    </tspan>
 <tspan x="515" y="530" class="keyColor">Stars</tspan>: <tspan class="valueColor">13</tspan>
 <tspan x="515" y="550" class="keyColor">Followers</tspan>: <tspan class="valueColor">0   </tspan>
-<tspan x="515" y="570" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">73,183</tspan> (<tspan class="addColor">100,781++</tspan>, <tspan class="delColor">27,598--</tspan>)
+<tspan x="515" y="570" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">74,180</tspan> (<tspan class="addColor">102,847++</tspan>, <tspan class="delColor">28,667--</tspan>)
 </text>
 
 </svg>
